@@ -1834,15 +1834,15 @@ ul.inline li {
 
 .well-package-heading {
   color: white;
-  line-height: 140px;
+  line-height: 180px;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
   position: absolute;
-  width: 140px;
-  height: 140px;
+  width: 180px;
+  height: 180px;
   left: 50%;
   top: 0;
-  margin-left: -70px;
-  margin-top: -70px;
+  margin-left: -90px;
+  margin-top: -110px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
