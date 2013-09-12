@@ -1,0 +1,24 @@
+@font-face {font-family:
+    'RaphaelIcons';
+    src:
+    url('/css/fonts/raphaelicons-webfont.eot');
+    src:
+    local('☺'), url('/css/fonts/raphaelicons-webfont.woff') format('woff'), url('/css/fonts/raphaelicons-webfont.ttf') format('truetype'), url('/css/fonts/raphaelicons-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    font-weight: normal;
+    font-style: normal;
+    line-height: normal;
+    font-family: 'RaphaelIcons';
+    font-size: 1.1em;
+    position: relative;
+    top: 0.1em;
+}
+
+.round-box i.icon {
+  font-size: 78px;
+}
+
