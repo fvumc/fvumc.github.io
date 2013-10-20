@@ -16,6 +16,7 @@
             <width>144</width>
             <height>144</height>
         </image>
+        <atom:link href="http://audio.fvumc.org/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:author>Fuquay-Varina United Methodist Church</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
@@ -225,16 +226,13 @@
         <item>
             <title>Who is Jesus and Why Does He Matter?</title>
             <link>http://audio.fvumc.org/Who_is_Jesus_and_Why_Does_He_Matter.mp3</link>
-            <description><![CDATA[<p>Rev. Gene Tyson
-<br />Matthew 16:13-20</p>]]></description>
+            <description><![CDATA[Rev. Gene Tyson ]]></description>
             <pubDate>Sun, 14 Jul 2013 09:30:14 -0400</pubDate>
             <enclosure url="http://audio.fvumc.org/Who_is_Jesus_and_Why_Does_He_Matter.mp3" length="0" type="audio/mpeg"/>
             <guid isPermaLink="false">ADC52B80-7C9A-497B-8634-DF4CBE677A69</guid>
             <itunes:author>Rev. Gene Tyson</itunes:author>
-            <itunes:subtitle>Rev. Gene Tyson&lt;br />
-Matthew 16:13-20</itunes:subtitle>
-            <itunes:summary>Rev. Gene Tyson&lt;br />
-Matthew 16:13-20</itunes:summary>
+            <itunes:subtitle>Rev. Gene Tyson</itunes:subtitle>
+            <itunes:summary>Rev. Gene Tyson</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>31:18</itunes:duration>
         </item>
@@ -257,8 +255,7 @@ Mark 1:21-28</itunes:summary>
         <item>
             <title>Jesus Calls Us to Follow Him</title>
             <link>http://audio.fvumc.org/Jesus_Calls_Us_to_Follow_Him.mp3</link>
-            <description><![CDATA[<p>Rev. Gene Tyson
-<br />Matthew 4:18-25</p>]]></description>
+            <description><![CDATA[Rev. Gene Tyson ]]></description>
             <pubDate>Sun, 30 Jun 2013 09:30:14 -0400</pubDate>
             <enclosure url="http://audio.fvumc.org/Jesus_Calls_Us_to_Follow_Him.mp3" length="0" type="audio/mpeg"/>
             <guid isPermaLink="false">09654D2D-896A-4DC0-9971-DA8132608AA6</guid>
