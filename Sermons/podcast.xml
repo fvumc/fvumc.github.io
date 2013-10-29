@@ -7,8 +7,8 @@
         <generator>Feeder 2.4(2.4); Mac OS X Version 10.8.5 (Build 12F45) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 20 Oct 2013 12:00:15 -0400</pubDate>
-        <lastBuildDate>Sun, 20 Oct 2013 12:00:15 -0400</lastBuildDate>
+        <pubDate>Sun, 27 Oct 2013 12:00:15 -0400</pubDate>
+        <lastBuildDate>Sun, 27 Oct 2013 12:00:15 -0400</lastBuildDate>
         <image>
             <url>http://members.fvumc.org/images/fvumcvision.png</url>
             <title>Fuquay-Varina United Methodist Church Sunday Sermons</title>
@@ -28,6 +28,19 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:new-feed-url>http://audio.fvumc.org/podcast.xml</itunes:new-feed-url>
+        <item>
+            <title>EnVision: Living a Life of Generosity</title>
+            <link>http://audio.fvumc.org/EnVision-Generosity.mp3</link>
+            <description><![CDATA[<p>Rev. Gene Tyson <br /></p>]]></description>
+            <pubDate>Sun, 27 Oct 2013 13:41:15 -0400</pubDate>
+            <enclosure url="http://audio.fvumc.org/EnVision-Generosity.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">D85A15F7-48EF-489E-B6B9-F91YB8B3D58B</guid>
+            <itunes:author>Rev. Gene Tyson</itunes:author>
+            <itunes:subtitle>Rev. Gene Tyson</itunes:subtitle>
+            <itunes:summary>Rev. Gene Tyson</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>28:44</itunes:duration>
+        </item>
         <item>
             <title>EnVision: Sharing God</title>
             <link>http://audio.fvumc.org/EnVision_Sharing_God.mp3</link>
