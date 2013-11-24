@@ -7,8 +7,8 @@
         <generator>Feeder 2.4(2.4); Mac OS X Version 10.8.5 (Build 12F45) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 10 Nov 2013 12:00:15 -0400</pubDate>
-        <lastBuildDate>Sun, 10 Nov 2013 12:00:15 -0400</lastBuildDate>
+        <pubDate>Sun, 24 Nov 2013 14:22:15 -0400</pubDate>
+        <lastBuildDate>Sun, 24 Nov 2013 14:22:15 -0400</lastBuildDate>
         <image>
             <url>http://members.fvumc.org/images/fvumcvision.png</url>
             <title>Fuquay-Varina United Methodist Church Sunday Sermons</title>
@@ -28,7 +28,33 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:new-feed-url>http://audio.fvumc.org/podcast.xml</itunes:new-feed-url>
-        
+
+        <item>
+            <title>Thanksliving: Thanks Worship</title>
+            <link>http://audio.fvumc.org/11-24-2013-Thanksliving_Thanks_Worship.mp3</link>
+            <description><![CDATA[<p>Rev. Valerie Tyson <br /></p>]]></description>
+            <pubDate>Sun, 24 Nov 2013 13:41:15 -0400</pubDate>
+            <enclosure url="http://audio.fvumc.org/11-24-2013-Thanksliving_Thanks_Worship.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">D88T15F7-5UEF-489E-B6B9-F91YB8B3C345</guid>
+            <itunes:author>Rev. Valerie Tyson</itunes:author>
+            <itunes:subtitle>Rev. Valerie Tyson</itunes:subtitle>
+            <itunes:summary>Rev. Valerie Tyson</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>40:58</itunes:duration>
+        </item>
+        <item>
+            <title></title>
+            <link>http://audio.fvumc.org/11-17-2013-Life_Lessons_From_A_Leper.mp3</link>
+            <description><![CDATA[<p>Rev. Gene Tyson <br /></p>]]></description>
+            <pubDate>Sun, 17 Nov 2013 13:41:15 -0400</pubDate>
+            <enclosure url="http://audio.fvumc.org/11-17-2013-Life_Lessons_From_A_Leper.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">D88T15F7-5UEF-489E-B6B9-F91YB823R34D</guid>
+            <itunes:author>Rev. Gene Tyson</itunes:author>
+            <itunes:subtitle>Rev. Gene Tyson</itunes:subtitle>
+            <itunes:summary>Rev. Gene Tyson</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>27:00</itunes:duration>
+        </item>
         <item>
             <title>First Things First</title>
             <link>http://audio.fvumc.org/11-10-2013-First_Things_First.mp3</link>
