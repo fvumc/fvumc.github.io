@@ -3,12 +3,11 @@
     <channel>
         <title>Fuquay-Varina United Methodist Church Sunday Sermons</title>
         <link>http://fvumc.org</link>
-        <description>Sunday Sermons from Fuquay-Varina United Methodist Church</description>
-        <generator>Feeder 2.4(2.4); Mac OS X Version 10.8.5 (Build 12F45) http://reinventedsoftware.com/feeder/</generator>
+        <description>Sermons from Fuquay-Varina United Methodist Church</description>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 24 Nov 2013 14:22:15 -0400</pubDate>
-        <lastBuildDate>Sun, 24 Nov 2013 14:22:15 -0400</lastBuildDate>
+        <pubDate>Sun, 01 Dec 2013 13:55:15 -0400</pubDate>
+        <lastBuildDate>Sun, 01 Dec 2013 13:55:15 -0400</lastBuildDate>
         <image>
             <url>http://members.fvumc.org/images/fvumcvision.png</url>
             <title>Fuquay-Varina United Methodist Church Sunday Sermons</title>
@@ -16,7 +15,6 @@
             <width>144</width>
             <height>144</height>
         </image>
-        <atom:link href="http://audio.fvumc.org/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:author>Fuquay-Varina United Methodist Church</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
@@ -27,8 +25,20 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
-        <itunes:new-feed-url>http://audio.fvumc.org/podcast.xml</itunes:new-feed-url>
 
+        <item>
+            <title>What Are We Waiting For</title>
+            <link>http://audio.fvumc.org/12-01-2013-What_Are_We_Waiting_For.mp3</link>
+            <description><![CDATA[<p>Rev. Kevin Johnson<br /></p>]]></description>
+            <pubDate>Sun, 01 Dec 2013 13:41:15 -0400</pubDate>
+            <enclosure url="http://audio.fvumc.org/12-01-2013-What_Are_We_Waiting_For.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">D71T15F7-6UEF-489E-B6B9-F91YB8B3C346</guid>
+            <itunes:author>Rev. Kevin Johnson</itunes:author>
+            <itunes:subtitle>Rev. Kevin Johnson</itunes:subtitle>
+            <itunes:summary>Rev. Kevin Johnson</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>26:39</itunes:duration>
+        </item>
         <item>
             <title>Thanksliving: Thanks Worship</title>
             <link>http://audio.fvumc.org/11-24-2013-Thanksliving_Thanks_Worship.mp3</link>
