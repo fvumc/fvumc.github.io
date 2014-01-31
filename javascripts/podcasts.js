@@ -1,13 +1,13 @@
   $(document).ready(function() {
     if(jQuery("ul#podcast-list").length > 0)
     {
-      console.log('on the podcasts ul');
+      //console.log('on the podcasts ul');
 
-      $.get("http://audio.fvumc.org/podcast.xml", function(data){
-        $(data).find('item').each(function() {
-          console.log( $(this) );
-        });
-      });
+      //$.get("http://audio.fvumc.org/podcast.xml", function(data){
+        //$(data).find('item').each(function() {
+          //console.log( $(this) );
+        //});
+      //});
 
 
 //$.get('rss.php?url='+rssUrl, function(d) {
